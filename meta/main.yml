@@ -3,6 +3,7 @@
 dependencies: []
 
 galaxy_info:
+  role_name: 'ansible'
   author: 'Adfinis SyGroup AG'
   description: 'Install and manage base packages and helper for ansible'
   company: 'Adfinis SyGroup AG'

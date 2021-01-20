@@ -4,4 +4,4 @@
 ansible_packages:
   - openssl
   - ca-certificates
-  - libselinux-python
+  - python3-libselinux
